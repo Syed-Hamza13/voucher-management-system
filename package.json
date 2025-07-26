@@ -1,0 +1,22 @@
+{
+  "name": "voucher-management-system",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syed-Hamza13/voucher-management-system.git"
+  },
+  "author": "hamza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Syed-Hamza13/voucher-management-system/issues"
+  },
+  "homepage": "https://github.com/Syed-Hamza13/voucher-management-system#readme",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
